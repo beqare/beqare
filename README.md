@@ -9,16 +9,12 @@
       technologies is an ongoing pursuit for me, as I'm always looking to
       broaden my skills and experience.
     </p>
-
     <h2>🚀 Currently working on</h2>
-
     <h3>
       <a href="https://github.com/snoopti/AllSystem32Apps">AllSystem32Apps</a>
     </h3>
     <p>A list of useful applications located in the System32 directory</p>
-
     <h3><a href="https://github.com/snoopti/snooTools">snooTools</a></h3>
     <p>Multitool batchscript</p>
-
   </body>
 </html>
