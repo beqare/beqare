@@ -12,17 +12,18 @@
     </p>
     <!--Projects-->
     <h2>🚀 I am currently working on:</h2>
-    <h3>
-      <a href="https://github.com/snoopti/AllSystem32Apps">AllSystem32Apps</a>
-    </h3>
     <p>A list of useful applications located in the System32 directory</p>
     <details>
       <summary>
-        hey
+        <h3><a href="https://github.com/snoopti/AllSystem32Apps">AllSystem32Apps</a></h3>
       </summary>
-      <p>Broo</p>
+      <p>A list of useful applications located in the System32 directory</p>
     </details>
-    <h3><a href="https://github.com/snoopti/snooTools">snooTools</a></h3>
-    <p>Multitool batchscript</p>
+    <details>
+      <summary>
+        <h3><a href="https://github.com/snoopti/snooTools">snooTools</a></h3>
+      </summary>
+      <p>Multitool batchscript</p>
+    </details>
   </body>
 </html>
