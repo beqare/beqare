@@ -9,6 +9,7 @@
       technologies is an ongoing pursuit for me, as I'm always looking to
       broaden my skills and experience.
     </p>
+    <hr>
     <h2>🚀 Currently working on</h2>
     <h3>
       <a href="https://github.com/snoopti/AllSystem32Apps">AllSystem32Apps</a>
