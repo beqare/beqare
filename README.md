@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <body>
+    <!--Introduction-->
     <h1>👋 Welcome to snoopti's GitHub Profile!</h1>
     <p>
       Welcome to my profile! I'm glad you found your way here. On my GitHub
@@ -10,12 +11,14 @@
       broaden my skills and experience.
     </p>
     <hr>
-    <h2>🚀 Currently working on</h2>
+    <!--Projects-->
+    <h2>🚀 I am currently working on:</h2>
     <h3>
       <a href="https://github.com/snoopti/AllSystem32Apps">AllSystem32Apps</a>
     </h3>
     <p>A list of useful applications located in the System32 directory</p>
     <h3><a href="https://github.com/snoopti/snooTools">snooTools</a></h3>
     <p>Multitool batchscript</p>
+    <hr>
   </body>
 </html>
