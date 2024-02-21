@@ -10,7 +10,6 @@
       technologies is an ongoing pursuit for me, as I'm always looking to
       broaden my skills and experience.
     </p>
-    <hr>
     <!--Projects-->
     <h2>🚀 I am currently working on:</h2>
     <h3>
@@ -19,6 +18,6 @@
     <p>A list of useful applications located in the System32 directory</p>
     <h3><a href="https://github.com/snoopti/snooTools">snooTools</a></h3>
     <p>Multitool batchscript</p>
-    <hr>
+    <img src="https://snoopti.de/cloud/logo.webp">
   </body>
 </html>
