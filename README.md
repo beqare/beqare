@@ -16,8 +16,13 @@
       <a href="https://github.com/snoopti/AllSystem32Apps">AllSystem32Apps</a>
     </h3>
     <p>A list of useful applications located in the System32 directory</p>
+    <details>
+      <summary>
+        hey
+      </summary>
+      <p>Broo</p>
+    </details>
     <h3><a href="https://github.com/snoopti/snooTools">snooTools</a></h3>
     <p>Multitool batchscript</p>
-    <img src="https://snoopti.de/cloud/logo.webp">
   </body>
 </html>
