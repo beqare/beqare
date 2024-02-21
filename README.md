@@ -1,13 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-  </head>
   <body>
     <h1>👋 Welcome to snoopti's GitHub Profile!</h1>
-
     <p>
       Welcome to my profile! I'm glad you found your way here. On my GitHub
       you'll find numerous repositories showcasing my work. While I enjoy coding
@@ -25,5 +19,6 @@
 
     <h3><a href="https://github.com/snoopti/snooTools">snooTools</a></h3>
     <p>Multitool batchscript</p>
+
   </body>
 </html>
