@@ -1,6 +1,6 @@
 <body>
   <!--Introduction-->
-  <h1>👋 Welcome to snoopti's GitHub Profile!</h1>
+  <h1 style="color: red;">👋 Welcome to snoopti's GitHub Profile!</h1>
   <p>
     Welcome to my profile! I'm glad you found your way here. On my GitHub
     you'll find numerous repositories showcasing my work. While I enjoy coding
