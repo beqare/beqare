@@ -14,4 +14,4 @@ Welcome to my profile! I'm glad you found your way here. On my GitHub you'll fin
 
 ## 🔗 Check out my social links
 
-- [Website](https://snoopti.de) | [Discord](https://snoopti.de/discord) | [GitHub](https://snoopti.de/github)
+[Website](https://snoopti.de) | [Discord](https://snoopti.de/discord) | [GitHub](https://snoopti.de/github)
