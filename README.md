@@ -17,4 +17,4 @@ Welcome to my profile! I'm glad you found your way here. On my GitHub you'll fin
 
 ## 💬 Join my Discord Server
 
-You can join my Discord server [here](https://discord.gg/your-discord-invite-link)
+You can join my Discord server [here](https://snoopti.de/discord)
