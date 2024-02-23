@@ -5,11 +5,13 @@ Welcome to my profile! I'm glad you found your way here. On my GitHub you'll fin
 ## 🚀 I am currently working on
 
 - **[AllSystem32Apps](https://github.com/snoopti/AllSystem32Apps)**
-
   - A curated list of useful applications located in the System32 directory.
 
 - **[snooTools](https://github.com/snoopti/snooTools)**
   - A multitool batch script.
+    
+- **[Mp4ToGif](https://github.com/snoopti/Mp4ToGif)**
+  - A mp4 to gif converter
 
 ## 🔗 Check out my social links
 
