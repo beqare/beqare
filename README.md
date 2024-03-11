@@ -7,7 +7,7 @@ Welcome to my profile! I'm glad you found your way here. On my GitHub you'll fin
 - **[AllSystem32Apps](https://github.com/snoopti/AllSystem32Apps)**
   - A curated list of useful applications located in the System32 directory.
 
-- **[snooToolsVS](https://github.com/snoopti/snooToolsVS)**
+- **[snooToolsV2](https://github.com/snoopti/snooToolsVS)**
   - A multitool C# Executable file.
     
 - **[Mp4ToGif](https://github.com/snoopti/Mp4ToGif)**
