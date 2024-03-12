@@ -4,7 +4,7 @@ Welcome to my profile! I'm glad you found your way here. On my GitHub you'll fin
 
 ## 🚀 I am currently working on
 
-- **[snooToolsV2](https://github.com/snoopti/snooToolsVS)**
+- **[snooToolsV2](https://github.com/snoopti/snooToolsV2)**
   - A multitool C# Executable file.
  
 - **[AllSystem32Apps](https://github.com/snoopti/AllSystem32Apps)**
