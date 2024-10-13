@@ -1,6 +1,6 @@
 # Introduction
 
-Hey there, I'm [snoopti](https://github.com/snoopti)
+Hey there, I'm **beqare**
 
 Here are a few links you might check out, as well as some statistics
 
