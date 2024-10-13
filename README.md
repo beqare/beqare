@@ -4,9 +4,9 @@ Hey there, I'm **beqare**
 
 Here are a few links you might check out, as well as some statistics
 
-![follower](https://img.shields.io/github/followers/snoopti?style=for-the-badge&labelColor=%23386a9c&color=%23609edb)
-![stars](https://img.shields.io/github/stars/snoopti?style=for-the-badge&labelColor=%23868c2d&color=%23e9f542)
-![views](https://komarev.com/ghpvc/?username=snoopti&style=for-the-badge&color=brightgreen)
+![follower](https://img.shields.io/github/followers/beqare?style=for-the-badge&labelColor=%23386a9c&color=%23609edb)
+![stars](https://img.shields.io/github/stars/beqare?style=for-the-badge&labelColor=%23868c2d&color=%23e9f542)
+![views](https://komarev.com/ghpvc/?username=beqare&style=for-the-badge&color=brightgreen)
 [![Discord](https://img.shields.io/discord/905923786833006642?style=for-the-badge&label=DISCORD&logo=discord&logoColor=white)](https://snoopti.de/discord)
 
 ## About me
