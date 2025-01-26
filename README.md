@@ -8,6 +8,7 @@ Here are a few links you might check out, as well as some statistics
 ![stars](https://img.shields.io/github/stars/beqare?style=for-the-badge&labelColor=%23868c2d&color=%23e9f542)
 ![views](https://komarev.com/ghpvc/?username=beqare&style=for-the-badge&color=brightgreen)
 [![Discord](https://img.shields.io/discord/905923786833006642?style=for-the-badge&label=DISCORD&logo=discord&logoColor=white)](https://beqare.de/discord)
+[![Ko-fi(https://storage.ko-fi.com/cdn/logomarkLogo.png)](https://ko-fi.com/beqare)
 
 ## About me
 
