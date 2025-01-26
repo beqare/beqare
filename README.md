@@ -17,6 +17,6 @@ Here are a few links you might check out, as well as some statistics
 
 ### Languages and Tools
 
-![views](https://skillicons.dev/icons?i=vscode,github,css,html,js,react,nodejs,python,c#)
+![views](https://skillicons.dev/icons?i=vscode,css,html,js,react,nodejs,python,c#&theme=dark)
 
 ![](https://hit.yhype.me/github/profile?user_id=92232204)
