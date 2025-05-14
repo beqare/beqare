@@ -9,6 +9,7 @@ Here are a few links you might check out, as well as some statistics
 ![views](https://komarev.com/ghpvc/?username=beqare&style=for-the-badge&color=brightgreen)
 [![Discord](https://img.shields.io/discord/905923786833006642?style=for-the-badge&label=DISCORD&logo=discord&logoColor=white)](https://beqare.de/discord)
 
+---
 
 ## About me
 
@@ -16,12 +17,19 @@ Here are a few links you might check out, as well as some statistics
 - I'd like to learn certain languages, such as **C#**, **Python**, **PHP**, for some amazing projects
 - I started coding on a **website** when I was **12** or **13**, (my birth year: **2007**)
 
-### Languages and Tools
+---
 
-![views](https://skillicons.dev/icons?i=vscode,css,html,js,react,nodejs,python,cs,php,unity#&theme=dark)
+### What i use:
+## Web Development
+![views](https://skillicons.dev/icons?i=php,css,html,js,react,electron#&theme=dark)
+## Game Development
+![views](https://skillicons.dev/icons?i=cs#&theme=dark)
+## Programs
+![views](https://skillicons.dev/icons?i=vscode,visualstudio,unity#&theme=dark)
+## Others
+![views](https://skillicons.dev/icons?i=python#&theme=dark)
 
-![](https://hit.yhype.me/github/profile?user_id=92232204)
-
+--- 
 ### Support my work
 
 [![Ko-fi](https://storage.ko-fi.com/cdn/logomarkLogo.png)](https://ko-fi.com/beqare)
