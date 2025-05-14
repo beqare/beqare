@@ -13,7 +13,7 @@ Here are a few links you might check out, as well as some statistics
 ## About me
 
 - Hello, my name is **Jonas**, and I enjoy experimenting with various code projects such as websites and other things
-- I'd like to learn certain languages, such as **C#** or **Python**, for some amazing projects
+- I'd like to learn certain languages, such as **C#**, **Python**, **PHP**, for some amazing projects
 - I started coding on a **website** when I was **12** or **13**, (my birth year: **2007**)
 
 ### Languages and Tools
