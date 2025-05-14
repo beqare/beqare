@@ -19,14 +19,14 @@ Here are a few links you might check out, as well as some statistics
 
 ---
 
-### What i use:
-## Web Development
+## What i use:
+**Web Development**
 ![views](https://skillicons.dev/icons?i=php,css,html,js,react,electron#&theme=dark)
-## Game Development
+**Game Development**
 ![views](https://skillicons.dev/icons?i=cs#&theme=dark)
-## Programs
+**Programs**
 ![views](https://skillicons.dev/icons?i=vscode,visualstudio,unity#&theme=dark)
-## Others
+**Others**
 ![views](https://skillicons.dev/icons?i=python#&theme=dark)
 
 --- 
