@@ -25,3 +25,7 @@ Here are a few links you might check out, as well as some statistics
 ### Support my work
 
 [![Ko-fi](https://storage.ko-fi.com/cdn/logomarkLogo.png)](https://ko-fi.com/beqare)
+
+### STATS
+[![Contribution Stats](https://next-github-tau.vercel.app/api/card?username=beqare)](https://github.com/beqare/)
+
