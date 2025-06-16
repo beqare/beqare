@@ -2,6 +2,10 @@
 
 Hey there, I'm **beqare**
 
+<p align="left">
+<img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com/?color=%2311cc0a&vCenter=true&width=500&lines=>+./start.sh;Let's+get+coding!;"/>
+</p>
+
 Here are a few links you might check out, as well as some statistics
 
 ![follower](https://img.shields.io/github/followers/beqare?style=for-the-badge&labelColor=%23386a9c&color=%23609edb)
