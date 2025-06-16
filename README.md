@@ -3,7 +3,7 @@
 <h1 align="center">Hey there, I'm <strong>beqare</strong> 👋</h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=11cc0a&vCenter=true&center=true&width=600&lines=%3E+./init.sh;Welcome+to+my+profile!;Coding+since+I+was+13.;Always+building+something+cool+:%29" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=11cc0a&center=true&width=600&lines=%3E+./init.sh;Welcome+to+my+profile!;Coding+since+I+was+13.;Always+building+something+cool+:%29" />
 </p>
 
 <p align="left">
