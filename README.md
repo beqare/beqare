@@ -1,43 +1,65 @@
-# Introduction
+<!-- GitHub Profile README: beqare -->
 
-Hey there, I'm **beqare**
+<h1 align="center">Hey there, I'm <strong>beqare</strong> 👋</h1>
 
-<p align="left">
-<img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com/?color=%2311cc0a&vCenter=true&width=500&lines=>+./start.sh;Let's+get+coding!;"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=11cc0a&vCenter=true&center=true&width=600&lines=%3E+./init.sh;Welcome+to+my+profile!;Coding+since+I+was+13.;Always+building+something+cool+:%29" />
 </p>
 
-Here are a few links you might check out, as well as some statistics
-
-![follower](https://img.shields.io/github/followers/beqare?style=for-the-badge&labelColor=%23386a9c&color=%23609edb)
-![stars](https://img.shields.io/github/stars/beqare?style=for-the-badge&labelColor=%23868c2d&color=%23e9f542)
-![views](https://komarev.com/ghpvc/?username=beqare&style=for-the-badge&color=brightgreen)
-[![Discord](https://img.shields.io/discord/905923786833006642?style=for-the-badge&label=DISCORD&logo=discord&logoColor=white)](https://beqare.de/discord)
-
----
-
-## About me
-
-- Hello, my name is **Jonas**, and I enjoy experimenting with various code projects such as websites and other things
-- I'd like to learn certain languages, such as **C#**, **Python**, **PHP**, for some amazing projects
-- I started coding on a **website** when I was **12** or **13**, (my birth year: **2007**)
+<p align="center">
+  <a href="https://beqare.de/discord">
+    <img src="https://img.shields.io/discord/905923786833006642?style=for-the-badge&label=DISCORD&logo=discord&logoColor=white&color=7289DA" />
+  </a>
+  <img src="https://img.shields.io/github/followers/beqare?style=for-the-badge&label=Followers&color=blueviolet" />
+  <img src="https://img.shields.io/github/stars/beqare?style=for-the-badge&label=Stars&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=beqare&style=for-the-badge&color=brightgreen" />
+</p>
 
 ---
 
-## What i use:
-### Web Development
-![views](https://skillicons.dev/icons?i=php,css,html,js,react,electron#&theme=dark)
-### Game Development
-![views](https://skillicons.dev/icons?i=cs#&theme=dark)
-### Programs
-![views](https://skillicons.dev/icons?i=vscode,visualstudio,unity#&theme=dark)
-### Others
-![views](https://skillicons.dev/icons?i=python#&theme=dark)
+## 🧠 About Me
 
---- 
-### Support my work
+- 👋 Hi, I'm **Jonas** (aka beqare)
+- 🧪 I love building random things: tools, websites, games...
+- 💻 I started coding at **12/13** (born in **2007**)
+- 🔧 I'm currently learning **C#**, **Python**, and **PHP**
+- 🎮 Working on game & web dev projects for fun and learning
 
-[![Ko-fi](https://storage.ko-fi.com/cdn/logomarkLogo.png)](https://ko-fi.com/beqare)
+---
 
-### STATS
-[![Contribution Stats](https://next-github-tau.vercel.app/api/card?username=beqare)](https://github.com/beqare/)
+## 🛠️ Tech Stack
 
+### 🌐 Web Development
+![PHP](https://skillicons.dev/icons?i=php)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![Electron](https://skillicons.dev/icons?i=electron)
+
+### 🎮 Game Development
+![C#](https://skillicons.dev/icons?i=cs)
+![Unity](https://skillicons.dev/icons?i=unity)
+
+### 💻 Software & Tools
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
+![Python](https://skillicons.dev/icons?i=python)
+
+---
+
+## 💡 GitHub Stats
+
+<p align="center">
+  <img src="https://next-github-tau.vercel.app/api/card?username=beqare" />
+</p>
+
+---
+
+## ☕ Support Me
+
+<p align="center">
+  <a href="https://ko-fi.com/beqare">
+    <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="Buy Me a Coffee at Ko-fi">
+  </a>
+</p>
