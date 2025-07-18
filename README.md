@@ -52,8 +52,8 @@
 
 <p align="center">
   <img src="https://next-github-tau.vercel.app/api/card?username=beqare" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beqare&show_icons=true&locale=en&theme=onedark&layout=compact" />
 </p>
-
 ---
 
 ## ☕ Support Me
