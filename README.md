@@ -10,6 +10,7 @@
   <a href="https://beqare.de/discord">
     <img src="https://img.shields.io/discord/905923786833006642?style=for-the-badge&label=DISCORD&logo=discord&logoColor=white&color=7289DA" />
   </a>
+  [![Sponsor @beqare](https://img.shields.io/badge/Sponsor-beqare-ff69b4?logo=github)](https://github.com/sponsors/beqare)
   <img src="https://img.shields.io/github/followers/beqare?style=for-the-badge&label=Followers&color=blueviolet" />
   <img src="https://img.shields.io/github/stars/beqare?style=for-the-badge&label=Stars&color=yellow" />
   <img src="https://komarev.com/ghpvc/?username=beqare&style=for-the-badge&color=brightgreen" />
