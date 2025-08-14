@@ -22,52 +22,63 @@
   <img src="https://komarev.com/ghpvc/?username=beqare&style=for-the-badge&color=brightgreen" style="margin:0 5px;" />
 </p>
 
-
 ---
 
 ## 🧠 About Me
 
-- 👋 Hi, I'm **Jonas** (aka beqare)
-- 🧪 I love building random things: tools, websites, games...
-- 💻 I started coding at **12/13** (born in **2007**)
-- 🔧 I'm currently learning **C#**, **Python**, and **PHP**
-- 🎮 Working on game & web dev projects for fun and learning
+Hi, I'm **Jonas** (aka **beqare**) 👨‍💻  
+I love building random things: **tools, websites, mods, games**, and constantly experimenting with new ideas.  
+Started coding at **12/13**, currently exploring **C#, Python, PHP**, and web/game dev projects.  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Web Development
-![PHP](https://skillicons.dev/icons?i=php)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Electron](https://skillicons.dev/icons?i=electron)
-
-### 🎮 Game Development
-![C#](https://skillicons.dev/icons?i=cs)
-![Unity](https://skillicons.dev/icons?i=unity)
-
-### 💻 Software & Tools
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
-![Python](https://skillicons.dev/icons?i=python)
+<div align="center">
+  <h3>🌐 Web Development</h3>
+  <img src="https://skillicons.dev/icons?i=php,html,css,js,react,electron" />
+  
+  <h3>🎮 Game Development</h3>
+  <img src="https://skillicons.dev/icons?i=cs,unity" />
+  
+  <h3>💻 Tools & IDEs</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,python" />
+</div>
 
 ---
 
-## 💡 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://next-github-tau.vercel.app/api/card?username=beqare" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beqare&show_icons=true&locale=en&theme=onedark&layout=compact" />
 </p>
+
 ---
 
 ## ☕ Support Me
 
 <p align="center">
+  <a href="https://github.com/sponsors/beqare">
+    <img src="https://img.shields.io/badge/Sponsor-beqare-ff69b4?logo=github" />
+  </a>
   <a href="https://ko-fi.com/beqare">
     <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="Buy Me a Coffee at Ko-fi">
   </a>
 </p>
+
+<p align="center">
+  Your support helps me keep building **cool projects, tools, and experiments**.  
+  Every sponsorship or coffee counts! 💖
+</p>
+
+---
+
+## ✨ Fun Facts
+
+- ⚡ Always coding in random languages for fun  
+- 🕹 Love experimenting with **game mods and engines**  
+- 🎯 Focused on **learning, building, and sharing** knowledge with the community  
+
+---
+
